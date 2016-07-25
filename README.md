@@ -28,3 +28,5 @@ Simple data binding for modern browsers
   let context = bindIt(state);  
 </script>
 ```
+
+![image](https://cloud.githubusercontent.com/assets/3384072/17116307/1ca305f6-52af-11e6-81c6-767266f63718.png)
