@@ -63,6 +63,7 @@ function bindIt(obj, base = '') {
       wrapArray(obj, prop, bindKey);
       // Handle bindings
       triggerUpdate(bindKey, obj[prop]);
+      return obj;
     }
   };
 
